@@ -1,6 +1,3 @@
-# ToNzani-
-since i won my bet 😁
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
